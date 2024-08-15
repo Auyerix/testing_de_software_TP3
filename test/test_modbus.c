@@ -3,7 +3,7 @@
  * @author Gustavo Auyero
  * @brief Archivo de test de driver de leds
  * @version 0.1
- * @date 2024-07-26
+ * @date 2024-08-10
  *
  * @copyright Copyright (c) 2024
  *

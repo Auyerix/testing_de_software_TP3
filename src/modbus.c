@@ -3,7 +3,7 @@
  * @author Gustavo Auyero
  * @brief Calculo de PDU Modbus
  * @version 0.1
- * @date 2024-07-26
+ * @date 2024-08-10
  *
  * @copyright Copyright (c) 2024
  *
